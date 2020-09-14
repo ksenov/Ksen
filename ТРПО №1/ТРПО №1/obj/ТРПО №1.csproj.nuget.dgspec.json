@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Борис\\source\\repos\\ТРПО №1\\ТРПО №1\\ТРПО №1.csproj": {}
+    "C:\\Ksen4\\ТРПО №1\\ТРПО №1\\ТРПО №1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Борис\\source\\repos\\ТРПО №1\\ТРПО №1\\ТРПО №1.csproj": {
+    "C:\\Ksen4\\ТРПО №1\\ТРПО №1\\ТРПО №1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Борис\\source\\repos\\ТРПО №1\\ТРПО №1\\ТРПО №1.csproj",
+        "projectUniqueName": "C:\\Ksen4\\ТРПО №1\\ТРПО №1\\ТРПО №1.csproj",
         "projectName": "ТРПО №1",
-        "projectPath": "C:\\Users\\Борис\\source\\repos\\ТРПО №1\\ТРПО №1\\ТРПО №1.csproj",
+        "projectPath": "C:\\Ksen4\\ТРПО №1\\ТРПО №1\\ТРПО №1.csproj",
         "packagesPath": "C:\\Users\\Борис\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Борис\\source\\repos\\ТРПО №1\\ТРПО №1\\obj\\",
+        "outputPath": "C:\\Ksen4\\ТРПО №1\\ТРПО №1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Борис\\AppData\\Roaming\\NuGet\\NuGet.Config",

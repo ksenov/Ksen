@@ -20,6 +20,7 @@ namespace ТРПО__1
             c = C;
             a = A;
             Console.WriteLine(a+","+b+","+c);
+            Console.WriteLine("Первый commit");
         }
     }
 }
